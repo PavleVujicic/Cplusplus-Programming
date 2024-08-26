@@ -1,0 +1,13 @@
+[{
+  "file": "/Users/pavlevujicic/Desktop/CPPProjects/Section5/BasicIO/main.cpp",
+  "directory": "/Users/pavlevujicic/Desktop/CPPProjects/Section5/BasicIO",
+  "command": "/usr/bin/g++ -c /Users/pavlevujicic/Desktop/CPPProjects/Section5/BasicIO/main.cpp -o /Users/pavlevujicic/Desktop/CPPProjects/Section5/BasicIO/main.cpp.o -target x86_64-apple-darwin23.5.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/pavlevujicic/Desktop/CPPProjects/Section5/Comments/main.cpp",
+  "directory": "/Users/pavlevujicic/Desktop/CPPProjects/Section5/Comments",
+  "command": "/usr/bin/g++ -c /Users/pavlevujicic/Desktop/CPPProjects/Section5/Comments/main.cpp -o /Users/pavlevujicic/Desktop/CPPProjects/Section5/Comments/main.cpp.o -target x86_64-apple-darwin23.5.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/Users/pavlevujicic/Desktop/CPPProjects/Section5/ModifiedProgram/main.cpp",
+  "directory": "/Users/pavlevujicic/Desktop/CPPProjects/Section5/ModifiedProgram",
+  "command": "/usr/bin/g++ -c /Users/pavlevujicic/Desktop/CPPProjects/Section5/ModifiedProgram/main.cpp -o /Users/pavlevujicic/Desktop/CPPProjects/Section5/ModifiedProgram/main.cpp.o -target x86_64-apple-darwin23.5.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]
